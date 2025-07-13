@@ -63,13 +63,13 @@ I sometimes test machine learning models just for fun, using my voice or anime c
 > Built with Parselmouth, Scikit-learn, Gradio. Real-time voice input support.
 
 ### 📚 [SkillGateway](https://github.com/Keerthi7903/skillgateway)
-> Curated platform of learning resources categorized by difficulty level.
+> Curated platform of learning resources categorized by difficulty level (Yet to be added)
 
 ### 🎧 [Melodaze](https://github.com/Keerthi7903/melodaze)
-> An offline Spotify-like app to preview, queue, and listen to music without the internet.
+> An offline Spotify-like app to preview, queue, and listen to music without the internet (Yet to be added)
 
 ### ✍️ [AI Study Companion](https://github.com/Keerthi7903/ai-study-companion)
-> Converts text documents into quiz questions and key summaries using NLP.
+> Converts text documents into quiz questions and key summaries using NLP (Yet to be added)
 
 ### 🔥 [Fire Risk Predictor](https://github.com/Keerthi7903/fire-risk-predictor)
 > Predicts wildfire risk using satellite data and Random Forest on MODIS inputs.
