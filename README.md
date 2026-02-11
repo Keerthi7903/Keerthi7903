@@ -1,104 +1,65 @@
-## Hi there 👋
+# Kamireddy Keerthi Reddy | AI & Web Dev Enthusiast
 
-# 🚀 Kamireddy Keerthi Reddy | AI & Web Dev Enthusiast
-
-🎓 CSE Undergrad at **BMS College of Engineering (2023–2027)**  
-🧠 Passionate about Artificial Intelligence, Web Development, and building impactful tools
+**CSE Undergrad at BMS College of Engineering (2023–2027)** Passionate about Artificial Intelligence, Web Development, and building impactful tools.
 
 > “Every line of code is a step closer to change. Keep building, keep learning, keep dreaming.”
 
 ---
 
-## 🔭 I’m currently working on:
-- 🧠 A real-time **Parkinson’s Disease Voice Detector** using biomedical speech biomarkers like jitter, shimmer, MFCCs, pitch, and HNR
-- 💊 **Brison** – A medicine delivery & healthcare web application
-- 🎓 Projects that combine machine learning + usability in real-life applications
+### Current Projects
+- **Parkinson’s Disease Voice Detector**: Analyzing biomedical speech biomarkers (jitter, shimmer, MFCCs) for early detection.
+- **TraceFlow**: An analytics platform designed to detect and visualize money laundering patterns.
+- **Brison**: A full-stack healthcare application for medicine delivery.
+- **Veri-Bill**: A decentralized invoice financing platform for MSMEs.
 
-## 🌱 I’m currently learning:
-- 🔍 Deep Learning with TensorFlow & PyTorch
-- 🧪 Audio signal processing with Praat/Parselmouth
-- 🔗 APIs and full-stack integration for dynamic apps
+### Learning Path
+- **Computer Vision**: Exploring Vision Transformers (ViT) and Swin Transformer architectures.
+- **Deep Learning**: Implementing advanced models with TensorFlow and PyTorch.
+- **Audio Signal Processing**: Refining feature extraction with Parselmouth.
 
-## 👯 I’m looking to collaborate on:
-- AI/ML + healthcare projects  
-- Real-time web applications that solve everyday challenges  
-- Hackathons & open-source contributions!
+### Looking to Collaborate On
+- AI/ML + Healthcare or FinTech projects.
+- Real-time web applications using Supabase or Firebase.
+- Hackathons and open-source contributions.
 
-## 🤔 I’m looking for help with:
-- Scaling ML projects to production  
-- Improving accuracy in biomedical voice analysis  
-- UX enhancements with animation libraries (Lottie, Framer Motion)
-
-## 💬 Ask me about:
-- Frontend & Backend development  
-- Voice signal features like MFCCs and pitch  
-- How I built my Parkinson’s app with Gradio + ML!
-
-## 📫 How to reach me:
-- GitHub: [Keerthi7903](https://github.com/Keerthi7903)  
-- LinkedIn: [Keerthi Reddy](https://www.linkedin.com/in/keerthi-reddy-a2571927a/)  
-- Email: [keerthireddy7903@gmail.com](mailto:keerthireddy7903@gmail.com)
-
-## 😄 Pronouns:
-She / Her
-
-## ⚡ Fun fact:
-I sometimes test machine learning models just for fun, using my voice or anime characters’ audio clips 😄
+### Technical Skills
+- **Languages**: C++, JavaScript, HTML5, CSS3, SQL
+- **Frameworks & Tools**: Node.js, Supabase, Firebase, Git, Scikit-learn, Gradio, Parselmouth
+- **Concepts**: OOP, DSA, Computer Vision, Audio Analysis, Supervised Learning
+- **Currently Exploring**: TensorFlow, XGBoost, Streamlit, Swin Transformers
 
 ---
 
-## 💻 Technical Skills
+### Featured Projects
 
-**Languages:** C++, JavaScript, HTML5, CSS3, SQL  
-**Frameworks & Tools:** Node.js, Supabase, Firebase, Git, Scikit-learn, Gradio  
-**Concepts:** OOP, DSA, Web Dev, Audio Analysis, Supervised Learning  
-**Currently Exploring:** TensorFlow, XGBoost, Parselmouth, Streamlit
+#### [TraceFlow](https://github.com/Keerthi7903/traceflow)
+An advanced analytics platform for detecting money laundering. It traces suspicious financial flows and visualizes transaction patterns to identify anomalies in decentralized networks.
 
----
+#### [Parkinson’s Disease Voice Detector](https://github.com/Keerthi7903/parkinsons-voice-detector)
+ML-powered application analyzing sustained vowel sounds to detect Parkinson’s using acoustic biomarkers. Built with Parselmouth and Gradio.
 
-## 🚀 Featured Projects
+#### [Veri-Bill](https://github.com/Keerthi7903/veri-bill)
+A decentralized invoice financing platform for MSMEs, designed to provide liquidity and transparency using blockchain-inspired architecture.
 
-### 🎤 [Parkinson’s Disease Voice Detector](https://github.com/Keerthi7903/parkinsons-voice-detector)
-> A lightweight ML-powered app that analyzes sustained vowel sounds to detect Parkinson’s Disease using acoustic biomarkers like jitter, shimmer, HNR, MFCCs, and pitch.  
-> Built with Parselmouth, Scikit-learn, Gradio. Real-time voice input support.
+#### [Code for Karma](https://github.com/Keerthi7903/code-for-karma)
+An AI spiritual guide that uses NLP to map the wisdom of the Bhagavad Gita to modern-day problem statements.
 
-### 📚 [SkillGateway](https://github.com/Keerthi7903/skillgateway)
-> Curated platform of learning resources categorized by difficulty level (Yet to be added)
-
-### 🎧 [Melodaze](https://github.com/Keerthi7903/melodaze)
-> An offline Spotify-like app to preview, queue, and listen to music without the internet (Yet to be added)
-
-### ✍️ [AI Study Companion](https://github.com/Keerthi7903/ai-study-companion)
-> Converts text documents into quiz questions and key summaries using NLP (Yet to be added)
-
-### 🔥 [Fire Risk Predictor](https://github.com/Keerthi7903/fire-risk-predictor)
-> Predicts wildfire risk using satellite data and Random Forest on MODIS inputs.
+#### [Fire Risk Predictor](https://github.com/Keerthi7903/fire-risk-predictor)
+Predicts wildfire risk using satellite data and Random Forest on MODIS inputs.
 
 ---
 
-## 🏆 Achievements
+### Achievements & Engagement
+- **Kharagpur Data Science Hackathon**: Participant in the Continuous Narrative Reasoning track.
+- **CBSE 12th Topper**: Achieved 94%.
+- **NSS Volunteer**: Active member at BMSCE.
+- **Zonal-level Softball Winner**: 2022.
 
-- 🏅 **94% in CBSE 12th** – School Topper  
-- 🥎 **Zonal-level Softball Winner** – 2022  
-- 💡 Participant in AI/ML Hackathons (Satellite & Biomedical use-cases)
-
----
-
-## 🤝 Clubs & Volunteering
-
-- ✨ Volunteer at NSS, BMSCE  
-- 🧠 Active member of AI/ML community events, workshops, and coding meetups
-
----
-
-## 🎨 Hobbies & Interests
-
-- 🖌️ Drawing & UI Sketching  
-- 🎧 Anime appreciation + AMVs  
-- 💻 Designing clean, functional apps  
-- 🧪 Exploring AI tools and voice-based ML  
-- 🌍 Learning something new every week!
+### Contact & Links
+- **GitHub**: [Keerthi7903](https://github.com/Keerthi7903)
+- **LinkedIn**: [Keerthi Reddy](https://www.linkedin.com/in/keerthi-reddy-a2571927a/)
+- **Email**: keerthireddy7903@gmail.com
+- **Pronouns**: She / Her
 
 ---
-
-### 🔗 Thank you for visiting! Drop a ⭐ on any project you liked 😄
+*Thank you for visiting! Feel free to drop a ⭐ on any project you find interesting.*
