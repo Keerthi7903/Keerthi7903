@@ -41,19 +41,16 @@
 </p>
 
 ---
-
 ### 🚀 Featured Projects
 
-<p align="center">
-<a href="https://github.com/Keerthi7903/CANDIDATEFORGE">
-</a>
-<a href="https://github.com/Keerthi7903/ANVIL_DKC">
-</a>
-</p>
-<p align="center">
-<a href="https://github.com/Keerthi7903/TraceFlow">
-</a>
-</p>
+**[CandidateForge](https://github.com/Keerthi7903/CANDIDATEFORGE)**
+End-to-end candidate data pipeline that ingests, normalizes, and deduplicates profiles from ATS JSON, GitHub Profile API, and recruiter notes into a single canonical record — with provenance tracking, confidence scoring, and fuzzy-matching identity resolution. CLI + Flask UI. `Python` `Flask` `RapidFuzz`
+
+**[AI Team OS](https://github.com/Keerthi7903/ANVIL_DKC)**
+Autonomous multi-agent PR operations platform that monitors GitHub PRs in real time, runs risk analysis, and triggers automated escalation via Discord — built with a reflection → research → priority-assessment agent pipeline. `Python` `FastAPI` `LangGraph` `Next.js`
+
+**[Hybrid GNN–Transformer for AML Detection](https://github.com/Keerthi7903/TraceFlow)**
+Hybrid architecture combining a Graph Attention Network (structural entity relationships) with a Temporal Transformer (evolving behavioral patterns) to detect coordinated, time-dependent illicit financial activity across multi-hop transaction flows. `PyTorch` `GAT` `Transformers`
 
 ---
 
