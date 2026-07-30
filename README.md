@@ -46,15 +46,15 @@
 
 <p align="center">
 <a href="https://github.com/Keerthi7903/CANDIDATEFORGE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keerthi7903&repo=candidateforge&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keerthi7903&repo=CANDIDATEFORGE&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/Keerthi7903/ANVIL_DKC">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keerthi7903&repo=ai-team-os&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keerthi7903&repo=ANVIL_DKC&theme=tokyonight&hide_border=true" />
 </a>
 </p>
 <p align="center">
 <a href="https://github.com/Keerthi7903/TraceFlow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keerthi7903&repo=gnn-transformer-aml&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keerthi7903&repo=TraceFlow&theme=tokyonight&hide_border=true" />
 </a>
 </p>
 
@@ -63,14 +63,6 @@
 ### 📊 GitHub Stats
 
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Keerthi7903&show_icons=true&theme=tokyonight&hide_border=true" />
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Keerthi7903/Keerthi7903/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
