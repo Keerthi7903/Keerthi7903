@@ -45,15 +45,15 @@
 ### 🚀 Featured Projects
 
 <p align="center">
-<a href="https://github.com/Keerthi7903/candidateforge">
+<a href="[https://github.com/Keerthi7903/candidateforge](https://github.com/Keerthi7903/CANDIDATEFORGE)">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keerthi7903&repo=candidateforge&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/Keerthi7903/ai-team-os">
+<a href="[https://github.com/Keerthi7903/ai-team-os](https://github.com/Keerthi7903/ANVIL_DKC)">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keerthi7903&repo=ai-team-os&theme=tokyonight&hide_border=true" />
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Keerthi7903/gnn-transformer-aml">
+<a href="[https://github.com/Keerthi7903/gnn-transformer-aml](https://github.com/Keerthi7903/TraceFlow)">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keerthi7903&repo=gnn-transformer-aml&theme=tokyonight&hide_border=true" />
 </a>
 </p>
