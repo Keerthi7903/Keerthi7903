@@ -46,15 +46,12 @@
 
 <p align="center">
 <a href="https://github.com/Keerthi7903/CANDIDATEFORGE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keerthi7903&repo=CANDIDATEFORGE&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/Keerthi7903/ANVIL_DKC">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keerthi7903&repo=ANVIL_DKC&theme=tokyonight&hide_border=true" />
 </a>
 </p>
 <p align="center">
 <a href="https://github.com/Keerthi7903/TraceFlow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keerthi7903&repo=TraceFlow&theme=tokyonight&hide_border=true" />
 </a>
 </p>
 
