@@ -52,14 +52,6 @@ Autonomous multi-agent PR operations platform that monitors GitHub PRs in real t
 **[Hybrid GNN–Transformer for AML Detection](https://github.com/Keerthi7903/TraceFlow)**
 Hybrid architecture combining a Graph Attention Network (structural entity relationships) with a Temporal Transformer (evolving behavioral patterns) to detect coordinated, time-dependent illicit financial activity across multi-hop transaction flows. `PyTorch` `GAT` `Transformers`
 
----
-
-### 📊 GitHub Stats
-
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Keerthi7903&show_icons=true&theme=tokyonight&hide_border=true" />
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Keerthi7903&style=for-the-badge&color=blueviolet" />
 </p>
